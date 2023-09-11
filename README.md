@@ -7,7 +7,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I wrote my master's thesis about reading habits on trains.
 
-Connect with me: ![Linkedin-icon](https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg)(https://www.linkedin.com/in/gfwong/){:height="100px" width="100px"}
+Connect with me: [LinkedIn](https://www.linkedin.com/in/gfwong/)
 
 <!--
 **gabriella-fw/gabriella-fw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
