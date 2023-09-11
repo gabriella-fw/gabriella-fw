@@ -1,4 +1,4 @@
-### I'm a content writer and editor looking for my next adventure in tech!
+### I'm Gabriella, a content writer and editor looking for my next adventure in tech!
 
 - 🔭 I’m currently working on starting my next adventure!
 - 🌱 I’m currently learning about world geopolitics through Tim Marshall's _Prisoners of Geography_ (2015)
@@ -7,6 +7,7 @@
 - ⚡ Fun fact: I wrote my master's thesis about reading habits on trains.
 
 Connect with me: [LinkedIn](https://www.linkedin.com/in/gfwong/)
+Read my portfolio of selected works: [Clippings](https://www.clippings.me/users/gabriellawong)
 
 <!--
 **gabriella-fw/gabriella-fw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
