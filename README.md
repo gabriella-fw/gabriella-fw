@@ -7,6 +7,7 @@
 - ⚡ Fun fact: I wrote my master's thesis about reading habits on trains.
 
 Connect with me: [LinkedIn](https://www.linkedin.com/in/gfwong/)
+
 Read my portfolio of selected works: [Clippings](https://www.clippings.me/users/gabriellawong)
 
 <!--
