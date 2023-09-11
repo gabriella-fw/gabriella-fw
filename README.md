@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on starting my next adventure!
 - 🌱 I’m currently learning about world geopolitics.
 - 👯 I’m looking to collaborate on content for tech/crypto projects.
-- 📫 How to reach me: 10wonggf1@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I wrote my master's thesis about reading habits on trains.
 
