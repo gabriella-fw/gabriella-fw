@@ -1,9 +1,9 @@
 ### I'm Gabriella, a content writer and editor looking for my next adventure in tech!
 
 - 🔭 I’m currently working on starting my next adventure!
-- 🌱 I’m currently learning about world geopolitics through Tim Marshall's _Prisoners of Geography_ (2015)
+- 🌱 I’m currently learning about world geopolitics through Tim Marshall's _Prisoners of Geography_ (2015).
 - 👯 I’m looking to collaborate on content for tech/crypto projects.
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/her.
 - ⚡ Fun fact: I wrote my master's thesis about [reading habits on trains](https://www.academia.edu/40474046/Reading_on_the_Railway_The_Mass_Reading_Public_and_Train_Travel_in_Late_Victorian_England).
 
 Connect with me: [LinkedIn](https://www.linkedin.com/in/gfwong/)
